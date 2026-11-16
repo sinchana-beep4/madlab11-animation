@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">madlab11-animation</string>
+    <string name="we_are_learning_animations_today_yipee">We are learning animations today! Yipee!</string>
+    <string name="fade_in">Fade In</string>
+    <string name="fade_out">Fade Out</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="slide_up">Slide Up</string>
+    <string name="bounce">Bounce</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="slide_down">Slide Down</string>
+    <string name="rotate">Rotate</string>
+</resources>
